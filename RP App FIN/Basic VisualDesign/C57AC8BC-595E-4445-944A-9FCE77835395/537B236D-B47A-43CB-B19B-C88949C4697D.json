@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "537B236D-B47A-43CB-B19B-C88949C4697D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 335,
+    "x": 20,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 & Instructions & Progress Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A6600E3-059B-4E8A-9FC4-B892638868DA_symbolID",
+      "value": "D0C16039-887D-41C9-A898-AB9969ECB41E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9750C28-E807-426A-A112-60EC55196523/B8C32F9B-F567-4FB2-94C2-0379E07C34B5/E898B114-AF2E-4EE0-B6C8-48019C403E28_stringValue",
+      "value": "Your plan offers paperless delivery. To sign up:"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5136AB19-0185-426B-B173-42DB12EFF9E5/6E0DCDC2-BDA7-461A-A1D5-98240DA5E85F_stringValue",
+      "value": "Set up online access"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7C5F2835-DD77-46A3-A138-6B4366460F64/86DE952C-FFC9-4F19-A388-E846080B417D_stringValue",
+      "value": "Paperless delivery"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E021FA1C-5CAB-4E1F-85CE-470DD3123F92",
+  "verticalSpacing": 0
+}

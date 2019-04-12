@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DA36956-ECDB-4721-A865-47E2780074A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E57F8B7-8DF4-4F99-85DE-61FAB5AC5B83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15FAEE24-C5BD-4E50-87A9-2F0A19AD48D9",
+    "height": 44,
+    "width": 335,
+    "x": 20,
+    "y": 811
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Controls / Button / Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4B0CE9A-836D-4A3C-9AC9-14A8C6196410",
+      "overrideName": "0AC9D006-DE4A-4F74-A28D-C6B80F4880A2_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28FFC79E-CEB7-4DDB-971A-F2E7B1EF2DB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D4258E3-C55F-4D17-809E-05C1CFC04CB5",
+  "verticalSpacing": 0
+}

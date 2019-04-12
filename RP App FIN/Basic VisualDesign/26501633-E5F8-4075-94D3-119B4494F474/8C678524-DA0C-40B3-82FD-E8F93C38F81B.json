@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C678524-DA0C-40B3-82FD-E8F93C38F81B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 335,
+    "x": 19,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D2347EE-4034-44EC-A1AF-01AC83C156D8",
+      "overrideName": "2F9C1CA3-C2BC-4A9B-8852-982734B74632_stringValue",
+      "value": "Account number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A573979B-C063-41B6-8B73-273E1D3BC6C4",
+      "overrideName": "48B38BF0-B6B3-4C79-A95E-8BAD57E612C3_stringValue",
+      "value": "Refer to your statement and/or welcome packet for the account number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8AB022D-73AC-4072-AC8F-C5A6321B3AC5",
+  "verticalSpacing": 0
+}

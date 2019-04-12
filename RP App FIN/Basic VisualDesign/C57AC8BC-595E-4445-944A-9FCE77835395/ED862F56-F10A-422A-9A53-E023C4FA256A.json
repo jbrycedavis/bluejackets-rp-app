@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED862F56-F10A-422A-9A53-E023C4FA256A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 223,
+    "x": 21,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars/Navigation/Segmented Control/Small - First",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F579ED27-DF85-4592-8BE6-A4BDB93491D0",
+      "overrideName": "3B2FB61A-C9F1-4071-A6B2-EEAB43EDBB9A_stringValue",
+      "value": "No"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A925F92-1968-42E4-B350-25D0A2CB3B46",
+      "overrideName": "BADE3A71-DB20-4C88-997B-EC3A375ACE7C_stringValue",
+      "value": "Yes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DDF16F6E-3C5A-4CAA-B533-BCBA58EE1329",
+  "verticalSpacing": 0
+}

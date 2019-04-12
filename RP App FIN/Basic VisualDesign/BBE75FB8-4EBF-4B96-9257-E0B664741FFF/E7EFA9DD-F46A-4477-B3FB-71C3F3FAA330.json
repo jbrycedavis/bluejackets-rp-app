@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7EFA9DD-F46A-4477-B3FB-71C3F3FAA330",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 335,
+    "x": 19,
+    "y": 102
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 & Instructions & Progress Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6939B8E-5F03-45DF-8AF2-65E2230ABD91",
+      "overrideName": "F9750C28-E807-426A-A112-60EC55196523/1AE1C0F3-40B3-44D0-AFE7-EDAD7BF6B621/6E0DCDC2-BDA7-461A-A1D5-98240DA5E85F_stringValue",
+      "value": "Select a contact method"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F52C691B-7F0A-461A-B361-F0B9003A7A52",
+      "overrideName": "F9750C28-E807-426A-A112-60EC55196523/B8C32F9B-F567-4FB2-94C2-0379E07C34B5/E898B114-AF2E-4EE0-B6C8-48019C403E28_stringValue",
+      "value": "Select where we can send you a verification code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B069F8E-529B-4381-8563-6CF6AC7716D6",
+      "overrideName": "4A6600E3-059B-4E8A-9FC4-B892638868DA_symbolID",
+      "value": "10C16DC3-85A9-44CB-971F-DB21F68FCD3F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F513EBB-5B23-4E93-87AE-41E664D13916",
+      "overrideName": "7C5F2835-DD77-46A3-A138-6B4366460F64/86DE952C-FFC9-4F19-A388-E846080B417D_stringValue",
+      "value": "Contact method"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E021FA1C-5CAB-4E1F-85CE-470DD3123F92",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9B63FC5-E043-4F01-AD1B-F5E8FC2183F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "082D36F5-770C-4C54-A83B-776141C24DFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F61097C8-5703-4718-B125-B508F48C754E",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "581C72AC-DBBC-45BB-9D39-C01F7373FA36"
+    },
+    {
+      "class": "rectangle",
+      "id": "B29C925E-04AD-40E5-8775-370819B1B228"
+    }
+  ],
+  "name": "Nav Bar Background",
+  "nameIsFixed": true,
+  "originalObjectID": "1DF1F895-8933-412C-8128-74B4E02B614A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "97AB264A-8A57-4B05-AECB-244467EF4629",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.859375,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7AB4597C-87D3-479D-985B-96DF9E75ED2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

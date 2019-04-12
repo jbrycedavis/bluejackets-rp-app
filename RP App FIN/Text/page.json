@@ -1,0 +1,114 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6D8567F-1577-4B95-A372-81687FCA5093",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -506,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AB7C396E-DE93-4AC8-A0B7-2EF4CBF06CA4"
+    },
+    {
+      "class": "text",
+      "id": "B10667BC-CAA2-4F51-8E92-A7129E281187"
+    },
+    {
+      "class": "text",
+      "id": "92E42437-8147-4FD8-B426-92D1FEAE0C80"
+    },
+    {
+      "class": "text",
+      "id": "35A4C9D3-0B3E-405A-871B-D87B4A38C287"
+    },
+    {
+      "class": "text",
+      "id": "B8183FD1-0D6B-4B9A-BEEB-716AF0C9F783"
+    },
+    {
+      "class": "text",
+      "id": "DE101901-CA7E-40CA-BD24-B55D8670CFFD"
+    },
+    {
+      "class": "text",
+      "id": "9CFAB514-7657-4746-9899-50E8A3E695C9"
+    },
+    {
+      "class": "text",
+      "id": "0DB0D275-6F22-4BAE-88D1-3F07C47BA78B"
+    },
+    {
+      "class": "text",
+      "id": "A820BF24-2943-4203-9643-A9E20759ABBF"
+    },
+    {
+      "class": "text",
+      "id": "9D357F59-446F-4620-9286-BFCFE797D1EA"
+    },
+    {
+      "class": "text",
+      "id": "8ACA5D8F-217C-416D-89EC-4131026BA5A8"
+    },
+    {
+      "class": "text",
+      "id": "6CE2AFA4-5076-49B4-82A1-617A9536105B"
+    },
+    {
+      "class": "text",
+      "id": "ECE43216-443C-45F9-A48A-204D932F5CCE"
+    }
+  ],
+  "name": "Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -365,
+    "guides": [
+    ]
+  }
+}

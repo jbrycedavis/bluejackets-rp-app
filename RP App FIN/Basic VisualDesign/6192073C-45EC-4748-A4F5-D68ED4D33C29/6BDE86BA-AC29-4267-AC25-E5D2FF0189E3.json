@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BDE86BA-AC29-4267-AC25-E5D2FF0189E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 335,
+    "x": 20,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 & Instructions & Progress Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A6600E3-059B-4E8A-9FC4-B892638868DA_symbolID",
+      "value": "412FB4C8-7582-453B-8752-41549A068E00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9750C28-E807-426A-A112-60EC55196523/B8C32F9B-F567-4FB2-94C2-0379E07C34B5/E898B114-AF2E-4EE0-B6C8-48019C403E28_stringValue",
+      "value": "This information will help with account access & recovery."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12CC76BB-A3B0-4371-A6C1-B55C619BAFF8",
+      "overrideName": "5136AB19-0185-426B-B173-42DB12EFF9E5/6E0DCDC2-BDA7-461A-A1D5-98240DA5E85F_stringValue",
+      "value": "Set up online access"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A8BBB6D-5BA5-4018-8E25-454906256067",
+      "overrideName": "7C5F2835-DD77-46A3-A138-6B4366460F64/86DE952C-FFC9-4F19-A388-E846080B417D_stringValue",
+      "value": "Account access and recovery"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E021FA1C-5CAB-4E1F-85CE-470DD3123F92",
+  "verticalSpacing": 0
+}

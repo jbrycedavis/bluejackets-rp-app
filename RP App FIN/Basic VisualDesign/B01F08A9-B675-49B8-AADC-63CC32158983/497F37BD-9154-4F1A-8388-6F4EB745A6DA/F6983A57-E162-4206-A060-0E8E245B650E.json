@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6983A57-E162-4206-A060-0E8E245B650E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF086BD8-657E-4BAB-8E06-6F46BD5C6B5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F94535B8-A808-429C-A877-D8013C128141",
+    "height": 28,
+    "width": 28,
+    "x": 315,
+    "y": 14
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Arrow (Left) Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "50604CD6-D5E5-4BE3-97F5-FA21F81FA1EE/4311428A-FFBF-4C9F-99A7-50F51CE151A8_layerStyle",
+      "value": "94198DE2-C283-4890-9B0F-985E9A8C3D32"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 180,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24FBF351-C50A-459C-BEC8-2313C044986E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8986C3EC-C9FB-41BA-8E20-28B32DCCC316",
+  "verticalSpacing": 0
+}

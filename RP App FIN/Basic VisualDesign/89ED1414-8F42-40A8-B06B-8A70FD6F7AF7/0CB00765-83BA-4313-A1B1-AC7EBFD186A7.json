@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CB00765-83BA-4313-A1B1-AC7EBFD186A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68E0ACDB-E7E0-4F6F-957E-BAC8B064F99E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A21F55B-9AA4-45A5-BA53-E8CAF0DFD3B3",
+    "height": 67,
+    "width": 335,
+    "x": 19,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D6B927F-1213-4498-B382-ED59413E6B67",
+      "overrideName": "0E18E03A-F359-4133-8476-BC04E98A8BB7_stringValue",
+      "value": "New username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6812170C-2FAE-445E-93CB-E345104CB74E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9000E18C-5F0D-4E86-B970-E2E0BE154E53",
+  "verticalSpacing": 0
+}

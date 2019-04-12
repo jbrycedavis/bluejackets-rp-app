@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B75FE601-58D7-48DF-8DFD-AFCB8A177E10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 335,
+    "x": 20,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 & Instructions & Progress Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77C394C9-0324-412F-B06E-3DBCD5E7C944",
+      "overrideName": "4A6600E3-059B-4E8A-9FC4-B892638868DA_symbolID",
+      "value": "0DA0536B-71EE-4608-9035-665611CB5264"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9E48D20-E85C-4F82-AEC2-51519FBA2C14",
+      "overrideName": "F9750C28-E807-426A-A112-60EC55196523/B8C32F9B-F567-4FB2-94C2-0379E07C34B5/E898B114-AF2E-4EE0-B6C8-48019C403E28_stringValue",
+      "value": "Now let's create a username and password."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A150489-7E11-4FD1-8EAE-A2CC1B3A6377",
+      "overrideName": "5136AB19-0185-426B-B173-42DB12EFF9E5/6E0DCDC2-BDA7-461A-A1D5-98240DA5E85F_stringValue",
+      "value": "Set up online access"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95645B54-2E4F-4414-8A09-2682B2403505",
+      "overrideName": "7C5F2835-DD77-46A3-A138-6B4366460F64/86DE952C-FFC9-4F19-A388-E846080B417D_stringValue",
+      "value": "Create username and password "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E021FA1C-5CAB-4E1F-85CE-470DD3123F92",
+  "verticalSpacing": 0
+}

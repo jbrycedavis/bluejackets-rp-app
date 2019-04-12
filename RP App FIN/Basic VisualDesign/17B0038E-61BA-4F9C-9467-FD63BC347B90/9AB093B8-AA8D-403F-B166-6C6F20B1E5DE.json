@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AB093B8-AA8D-403F-B166-6C6F20B1E5DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 335,
+    "x": 20,
+    "y": 101
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 & Instructions & Progress Bar Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "968CA5FF-4444-4115-8A64-DDA7904D6334",
+      "overrideName": "4A6600E3-059B-4E8A-9FC4-B892638868DA_symbolID",
+      "value": "88B24A77-4BC4-46ED-AED9-63CB17BE62B7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1B45048-D132-4515-AABC-B93AEA8718BF",
+      "overrideName": "5136AB19-0185-426B-B173-42DB12EFF9E5/6E0DCDC2-BDA7-461A-A1D5-98240DA5E85F_stringValue",
+      "value": "We found you!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FFE7109-2EFE-42F5-A340-81811FD93AA1",
+      "overrideName": "7C5F2835-DD77-46A3-A138-6B4366460F64/86DE952C-FFC9-4F19-A388-E846080B417D_stringValue",
+      "value": "Hmmmmmmmmmm"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E021FA1C-5CAB-4E1F-85CE-470DD3123F92",
+  "verticalSpacing": 0
+}

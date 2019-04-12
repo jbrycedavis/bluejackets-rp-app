@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA9D1572-F8D3-43DB-906F-90705B4BD350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1173,
+    "width": 375,
+    "x": 3107,
+    "y": 2767
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EA521D95-05DA-485D-A3A5-0BD37BAED283"
+    },
+    {
+      "class": "group",
+      "id": "8457347B-CC50-4460-B024-A78FF4087BE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAE589ED-A9D6-4E47-B518-1C30A3D258B1"
+    },
+    {
+      "class": "text",
+      "id": "30CDE15E-E226-46FA-901B-3AE075B0BBBB"
+    },
+    {
+      "class": "group",
+      "id": "11DAF334-2293-46CC-9562-3A6745686E76"
+    },
+    {
+      "class": "group",
+      "id": "975E3C5C-296C-43A6-8597-59D8E5F149AC"
+    },
+    {
+      "class": "group",
+      "id": "A600B023-1299-4601-8D27-E5405EE7E2AA"
+    },
+    {
+      "class": "group",
+      "id": "1EAB1C2D-8136-4747-B0F8-BCED80AF0209"
+    },
+    {
+      "class": "group",
+      "id": "CBD8F94F-21FF-4EA7-8310-8AEFDFBB128E"
+    },
+    {
+      "class": "group",
+      "id": "A73699CC-5488-4F1F-AF34-185037CC91A9"
+    },
+    {
+      "class": "group",
+      "id": "352F5927-F42F-4FF7-BCFD-B824BAE26D38"
+    },
+    {
+      "class": "group",
+      "id": "8677B87D-BCDA-4FC1-80CC-3E00435677C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33CAF58E-2FC7-492D-AE1B-2D62288C4F13"
+    },
+    {
+      "class": "shapePath",
+      "id": "A428CA74-A5C3-40D4-8DAB-9276C54EE78E"
+    },
+    {
+      "class": "text",
+      "id": "E7D485FE-AB81-40BD-9D4C-B0D9AB6E2F14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD5A881A-A79E-4516-979C-5E5BAD7B1233"
+    },
+    {
+      "class": "text",
+      "id": "57F6961C-BF46-4D8F-8168-FBCF09F3B946"
+    },
+    {
+      "class": "text",
+      "id": "743C2473-D4C1-4883-A30E-37D1F9ABE1C9"
+    },
+    {
+      "class": "text",
+      "id": "640E78E8-5713-4163-9566-D8BBF50062E7"
+    },
+    {
+      "class": "text",
+      "id": "EF481E94-893F-408D-A14B-8032AB7957D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA4287AA-5E92-4B2E-9F1C-7285227F533D"
+    }
+  ],
+  "name": "Account Choice C - Single Plan",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

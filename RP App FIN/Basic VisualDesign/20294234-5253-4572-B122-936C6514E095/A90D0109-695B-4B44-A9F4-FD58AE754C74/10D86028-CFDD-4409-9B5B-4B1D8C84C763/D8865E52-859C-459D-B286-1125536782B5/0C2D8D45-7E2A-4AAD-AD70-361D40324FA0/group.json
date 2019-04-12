@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C2D8D45-7E2A-4AAD-AD70-361D40324FA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21DD5D66-B974-4263-B8A2-5387FF393413"
+    },
+    {
+      "class": "group",
+      "id": "8AF19546-2AF1-44E1-ACFF-8F0EAFC11C43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1869F434-F77F-46C1-BB5C-4E2FD06FFD52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7830D5BA-07AB-4527-B1CB-3E6560E6CE4A"
+    },
+    {
+      "class": "group",
+      "id": "D1B45272-336C-4305-9507-8A2CEA080F92"
+    },
+    {
+      "class": "text",
+      "id": "4C7E50C1-2AAB-467F-AE85-44A78FED26A8"
+    },
+    {
+      "class": "text",
+      "id": "0B5E09A5-1A84-4C50-9F3D-44E183E12802"
+    }
+  ],
+  "name": "Status Bar",
+  "nameIsFixed": true,
+  "originalObjectID": "94CA4866-75AC-4FB8-84AD-068D375CCFBF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.859375,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

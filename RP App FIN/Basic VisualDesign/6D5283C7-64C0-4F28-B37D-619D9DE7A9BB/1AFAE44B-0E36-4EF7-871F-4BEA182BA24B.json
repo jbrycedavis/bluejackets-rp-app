@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AFAE44B-0E36-4EF7-871F-4BEA182BA24B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 619
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Bars / Tab Bar / iPhone 8 / Light - 3 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C_symbolID",
+      "value": "781791F8-7415-4BD4-9941-D7C36323F44C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C/005266D2-FC52-42A2-AD86-5F5427376DE1_symbolID",
+      "value": "6F8BD047-682A-4A48-8C5B-E25D4C29F05E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C/005266D2-FC52-42A2-AD86-5F5427376DE1/F054D063-D215-4A9B-9587-38F4FCD7A2DF_layerStyle",
+      "value": "1AC501D3-5633-4EF9-A22E-159632ED3D37"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C/BD38164B-B66C-4544-96D7-92D925523103_stringValue",
+      "value": "Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4FAC9C68-1DDF-4F63-8716-F3542B45AACE_symbolID",
+      "value": "AE567F39-B17E-41F3-B6F0-54E648254692"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4FAC9C68-1DDF-4F63-8716-F3542B45AACE/931A6C79-ED49-4386-A766-353C70C1F469_symbolID",
+      "value": "E21AC6A3-78E8-4BF4-99FC-92EE824C9978"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4FAC9C68-1DDF-4F63-8716-F3542B45AACE/931A6C79-ED49-4386-A766-353C70C1F469/2C391BB2-EA01-4C38-9B20-5F490307FE6D_layerStyle",
+      "value": "94198DE2-C283-4890-9B0F-985E9A8C3D32"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4FAC9C68-1DDF-4F63-8716-F3542B45AACE/9ACB723E-A7B3-4266-B46E-0D612732F51D_stringValue",
+      "value": "Profile"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F02ACC3F-F762-4710-86C3-B0F2310FF07F",
+  "verticalSpacing": 0
+}

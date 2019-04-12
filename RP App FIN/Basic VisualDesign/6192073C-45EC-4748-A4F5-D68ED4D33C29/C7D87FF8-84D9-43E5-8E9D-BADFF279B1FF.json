@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7D87FF8-84D9-43E5-8E9D-BADFF279B1FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 335,
+    "x": 19,
+    "y": 208
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5157BE5A-A216-4CFF-AB96-DEE12CE14D1F",
+      "overrideName": "2F9C1CA3-C2BC-4A9B-8852-982734B74632_stringValue",
+      "value": "Email address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "746460DA-6E59-4D03-854E-3DD97E3AFBAD",
+      "overrideName": "48B38BF0-B6B3-4C79-A95E-8BAD57E612C3_stringValue",
+      "value": "example: username@domain.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8AB022D-73AC-4072-AC8F-C5A6321B3AC5",
+  "verticalSpacing": 0
+}

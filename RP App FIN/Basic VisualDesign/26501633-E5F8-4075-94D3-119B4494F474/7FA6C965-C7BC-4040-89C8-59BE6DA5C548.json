@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FA6C965-C7BC-4040-89C8-59BE6DA5C548",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 335,
+    "x": 19,
+    "y": 283
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7962B4D0-0A00-404B-9177-B3EF11A42104",
+      "overrideName": "AB31A758-D3D8-43FD-806B-328C80C9A4D9_stringValue",
+      "value": "Date of birth"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45F1307B-C7AA-44CA-B08D-A8247B0F0581",
+      "overrideName": "389DA346-C02F-4785-BECA-22E9FF19A88A_stringValue",
+      "value": "mm/dd/yyyy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58BD7081-8026-43D0-BB45-BE21C09F6E7E",
+  "verticalSpacing": 0
+}

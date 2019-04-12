@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4792395-B4A8-4D6B-8B85-B8C47BDFABAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 733
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Bars / Tab Bar / iPhone 8 / Light - 3 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33F525DA-A301-46E0-8EB2-AB50E5E7B655",
+      "overrideName": "A72747AD-5492-4A83-BF40-1D75BFE94199_symbolID",
+      "value": "AE567F39-B17E-41F3-B6F0-54E648254692"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19F16374-CED7-4A62-B42B-17B43C04B8C6",
+      "overrideName": "A72747AD-5492-4A83-BF40-1D75BFE94199/931A6C79-ED49-4386-A766-353C70C1F469_symbolID",
+      "value": "0C1C4A28-8FC0-4E08-8F84-3512B57EE975"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "851BB013-0974-41DF-972E-AA16A965DD17",
+      "overrideName": "A72747AD-5492-4A83-BF40-1D75BFE94199/931A6C79-ED49-4386-A766-353C70C1F469/01787090-1B88-47E4-9231-61B9B7EEB03F_layerStyle",
+      "value": "51D32F03-DCEB-4720-AF64-C1FE09E36DF1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28BBCF40-C6CB-44A9-878C-16F26DBAA258",
+      "overrideName": "A72747AD-5492-4A83-BF40-1D75BFE94199/53E22495-4352-4DEE-BC7B-7B51B15618D1_flowDestination",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F8186F2-CB6D-4116-891B-DA00BA00B254",
+      "overrideName": "A72747AD-5492-4A83-BF40-1D75BFE94199/9ACB723E-A7B3-4266-B46E-0D612732F51D_stringValue",
+      "value": "Contact us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D40D3DA8-BBE4-4703-8E2F-B12B0D686E7E",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C_symbolID",
+      "value": "781791F8-7415-4BD4-9941-D7C36323F44C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "672B2062-1AF6-41F2-B12C-5B6331A0772E",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C/005266D2-FC52-42A2-AD86-5F5427376DE1_symbolID",
+      "value": "6F8BD047-682A-4A48-8C5B-E25D4C29F05E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAC3F261-3DE3-4AF7-893B-3647ABDF94A8",
+      "overrideName": "EEF0A8AB-630F-4B92-8349-7EFB3B8F1E4C/BD38164B-B66C-4544-96D7-92D925523103_stringValue",
+      "value": "Accounts"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F02ACC3F-F762-4710-86C3-B0F2310FF07F",
+  "verticalSpacing": 0
+}

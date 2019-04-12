@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "495E543F-F951-41A0-A30F-45BCB44E3506",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EB71CDD-2321-4AFC-9F46-E7AC041A9923",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D47C7E7-84AE-4A16-9B1B-3F5CDC99A32A",
+    "height": 44,
+    "width": 270,
+    "x": 0,
+    "y": 117
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/_Resources/Primary Action",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D7CA04A-BFC4-43F4-B5A6-A39E62FBDED3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D1FE7B5-3464-4AD5-B0EF-C8A7512C2416",
+  "verticalSpacing": 0
+}

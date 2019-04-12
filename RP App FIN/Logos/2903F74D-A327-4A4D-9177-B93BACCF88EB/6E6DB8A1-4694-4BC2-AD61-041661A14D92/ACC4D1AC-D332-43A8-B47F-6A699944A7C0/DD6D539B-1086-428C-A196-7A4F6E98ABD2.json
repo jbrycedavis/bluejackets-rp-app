@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD6D539B-1086-428C-A196-7A4F6E98ABD2",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0.4165836727459684,
+    "width": 0.419768472536298,
+    "x": 2.721197667589393,
+    "y": 9.831539621511682
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5373843544096184, 0.66867138198362852}",
+      "curveMode": 4,
+      "curveTo": "{0.64238435440962238, 0.54667138198362863}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.64238435440962238, 0.54667138198362863}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.48938435440961658, 0.34667138198362579}",
+      "curveMode": 4,
+      "curveTo": "{0.33138435440962954, 0.5546713819836242}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.36038435440962591, 0.42667138198362409}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.64238435440962238, 0.54667138198362863}",
+      "curveMode": 4,
+      "curveTo": "{0.57738435440961045, 0.47467138198362591}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.64238435440962238, 0.54667138198362863}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

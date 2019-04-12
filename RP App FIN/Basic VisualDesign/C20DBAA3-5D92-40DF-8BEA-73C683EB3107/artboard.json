@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C20DBAA3-5D92-40DF-8BEA-73C683EB3107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 918,
+    "width": 375,
+    "x": 3582,
+    "y": 4411
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "24FA8B21-C0E2-4145-A911-A8CC8FC90D7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1F9EBB9-338C-466E-8962-9D338A84D9EB"
+    },
+    {
+      "class": "group",
+      "id": "9F31FAED-FE74-458E-A617-058B805F8891"
+    },
+    {
+      "class": "text",
+      "id": "25E36A41-46BD-466F-8B64-6D9DCD1462C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B52D0868-E70F-492A-BD3E-19EBAACDB33B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9372904F-032F-46E3-9D57-E4EEEF0CF6BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42955BD0-CFB6-4C70-A623-7610F6E912FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BD9C9E8-3FA9-4830-A326-48156415623F"
+    },
+    {
+      "class": "group",
+      "id": "21B2BBD8-5859-4AAD-B63B-F255884B5A16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F371FDB6-CA19-41D3-B499-3AA5A1EE45DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99F4FD6E-ED22-47C1-B52D-E80F07257618"
+    },
+    {
+      "class": "group",
+      "id": "2B4C2D5F-490D-4251-8546-7D7B302EA39D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16F10BFA-8711-4041-82D7-CCE614C73EE2"
+    },
+    {
+      "class": "group",
+      "id": "DDAD14AB-077F-4885-8AFC-04930A7F882E"
+    },
+    {
+      "class": "text",
+      "id": "0CC0BFD2-2E3F-4E04-BB58-882897D29A1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD57A03-E103-4F58-AABB-F6C939146942"
+    }
+  ],
+  "name": "Profile - Acct Recovery Email",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

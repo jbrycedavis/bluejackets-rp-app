@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31C851BE-CB88-4E76-9E48-7AF05B85ECAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8D44EF7-46F8-4EA0-A84C-D6BD4D50DE25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2CC36E4-4F1B-4FA1-897A-53601D824B20",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 733
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars / Tab Bar / iPhone 8 / Light - 3 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A065D9F-1195-492D-AC10-40FBC31B2CEC",
+      "overrideName": "4FAC9C68-1DDF-4F63-8716-F3542B45AACE/005266D2-FC52-42A2-AD86-5F5427376DE1/CC83CD98-DFFB-41B5-84DB-217719DBF2A4_layerStyle",
+      "value": "94198DE2-C283-4890-9B0F-985E9A8C3D32"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA2A6995-C034-4A07-BCFF-F17DF85F190C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F02ACC3F-F762-4710-86C3-B0F2310FF07F",
+  "verticalSpacing": 0
+}

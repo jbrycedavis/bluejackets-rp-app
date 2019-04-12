@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E347D79E-A609-44AD-84AC-75F485C924CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 335,
+    "x": 19,
+    "y": 278
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5EADEB7-99C6-4C27-AC56-B1112C78161D",
+      "overrideName": "EC86EC26-501C-438A-86B2-7AE7EA0A1598_stringValue",
+      "value": "New password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5EA1D90-A88F-43FC-B095-52E684D11C99",
+      "overrideName": "19223FCF-807A-44DB-81E3-D94B57030EF4_stringValue",
+      "value": "Case sensitive"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15D374E8-D346-4059-8645-26CAECF37CF3",
+  "verticalSpacing": 0
+}

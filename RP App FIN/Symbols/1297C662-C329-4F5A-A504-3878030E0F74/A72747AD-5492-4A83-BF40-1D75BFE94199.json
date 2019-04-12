@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72747AD-5492-4A83-BF40-1D75BFE94199",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 121,
+    "x": 254,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DB2EA27-B750-463C-B9B0-4A34CEA56585",
+      "overrideName": "BD38164B-B66C-4544-96D7-92D925523103_stringValue",
+      "value": "Contact us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "490E5208-E6D1-4DFE-9419-020325CE6FBD",
+      "overrideName": "005266D2-FC52-42A2-AD86-5F5427376DE1_symbolID",
+      "value": "E90EAED8-3819-4A66-B43C-F821BE9ADC23"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEE4E4C0-E62B-4865-821A-DB3624D4A232",
+      "overrideName": "005266D2-FC52-42A2-AD86-5F5427376DE1/9F8AB1B6-82C5-49FA-AC74-5F8364E6721B_layerStyle",
+      "value": "1AC501D3-5633-4EF9-A22E-159632ED3D37"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "781791F8-7415-4BD4-9941-D7C36323F44C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

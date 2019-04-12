@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9372904F-032F-46E3-9D57-E4EEEF0CF6BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 335,
+    "x": 19,
+    "y": 318
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF552A33-8206-4640-9139-556AB94E24D1",
+      "overrideName": "EC86EC26-501C-438A-86B2-7AE7EA0A1598_stringValue",
+      "value": "New account recovery email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F41CF7F3-FBB1-4ACC-8D46-250D3E77CFC8",
+      "overrideName": "19223FCF-807A-44DB-81E3-D94B57030EF4_stringValue",
+      "value": "email@provider.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15D374E8-D346-4059-8645-26CAECF37CF3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A9DCE94-8317-47DA-8B0C-72DF74A3B6B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 335,
+    "x": 19,
+    "y": 152
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs/Text fields/Normal Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "604AE4CA-7735-428F-9452-39B0A6DD95B5",
+      "overrideName": "433B7206-2BF8-4360-8A8F-20B6C4FA4F34_stringValue",
+      "value": "Current username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEEB7D36-9C28-4A58-A9BB-4ABE228BFAB5",
+      "overrideName": "6223BB43-E561-4B5D-A327-EB9E6034D44D_stringValue",
+      "value": "JaneDoe11"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F07CCFF-F3C9-4D82-B6AE-8F3EAE43F16C",
+  "verticalSpacing": 0
+}

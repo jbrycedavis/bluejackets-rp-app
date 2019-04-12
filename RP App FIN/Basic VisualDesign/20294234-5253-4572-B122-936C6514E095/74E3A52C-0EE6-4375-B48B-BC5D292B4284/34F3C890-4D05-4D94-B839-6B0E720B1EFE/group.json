@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "34F3C890-4D05-4D94-B839-6B0E720B1EFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CBB6E6F3-5DB5-4D78-B2F5-BB5A5160B5F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "0C8E5897-4CE0-4C22-98BB-D9F7A07377BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4DDAD73-102D-4913-81F2-344BE7E4A330"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0179C401-199C-49C3-B208-1C6C71FD4B7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "30AB4104-9128-4811-B805-EDDA8FE9E1F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D3991A1-DECD-4806-BAE4-7EFF495A740C"
+    }
+  ],
+  "name": "Tab Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
